@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omkar Tripathi
 - 👀 I’m interested in Develop website and apps
 - 🌱 I’m an a full stack developer...
-- 📫 How to reach me @tripathi076_
+- 📫 How to reach me [@tripathi076_](https://www.instagram.com/tripathi076_/)
 -
 
 <!---
